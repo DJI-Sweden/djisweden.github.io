@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Välkommen till GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/DJI-Sweden/djisweden.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Du kan använda [editorn på GitHub](https://github.com/DJI-Sweden/djisweden.github.io/edit/gh-pages/index.md) för att underhålla och förhandsgranksa innehållet i Wikin direkt i vanliga Markdown-filer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Efter varje 'commit' av denna Git repository, kommer GitHub Pages att köra [Jekyll](https://jekyllrb.com/) att bygga om sidorna i Wikin baserat på innehållet i Markdown-filerna.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown är ett liten och enkel syntax för att formatera din text. Det innehåller formateringar för
 
 ```markdown
-Syntax highlighted code block
+Översikt av syntaxen
 
-# Header 1
-## Header 2
-### Header 3
+# Rubriknivå 1
+## Rubriknivå 2
+### Rubriknivå 3
 
-- Bulleted
-- List
+- Punkt
+- Lista
 
-1. Numbered
-2. List
+1. Numrerad
+2. Lista
 
-**Bold** and _Italic_ and `Code` text
+**Fet** och _Kursiv_ och `Oformaterad` text
 
-[Link](url) and ![Image](src)
+[Länk](url) och ![Bild](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+För mer information, se [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Teman i Jekyll
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DJI-Sweden/djisweden.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Din GitHub Pages sajt kommer att använda den layout och formatering som du valt Jekyll theme under [repository settings](https://github.com/DJI-Sweden/djisweden.github.io/settings/pages). Namnet på temat sparas i Jekylls konfigurationsfil `_config.yml`.
 
-### Support or Contact
+### Support och Kontakter
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Har du problem med GutHub Pages? Besök [dokumentationen](https://docs.github.com/categories/github-pages-basics/) eller [kontakta supporten](https://support.github.com/contact) och vi kommer att hjälpa dig med ditt problem.
