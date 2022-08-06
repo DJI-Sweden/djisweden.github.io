@@ -1,6 +1,6 @@
 ## Välkommen till GitHub Pages
 
-Du kan använda [editorn på GitHub](https://github.com/DJI-Sweden/djisweden.github.io/edit/gh-pages/index.md) för att underhålla och förhandsgranksa innehållet i Wikin direkt i vanliga Markdown-filer.
+Du kan använda [editorn på GitHub](https://github.com/DJI-Sweden/djisweden.github.io/edit/gh-pages/index.md) för att underhålla och förhandsgranksa innehållet i sidorna direkt i vanliga Markdown-filer.
 
 Efter varje 'commit' av denna Git repository, kommer GitHub Pages att köra [Jekyll](https://jekyllrb.com/) att bygga om sidorna i Wikin baserat på innehållet i Markdown-filerna.
 
